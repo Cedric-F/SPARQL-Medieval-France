@@ -78,10 +78,10 @@ Name                 | Description
 ---------------------|------------
 Accessibility        | Aria labels and a fully managed focus make the navigation easier and Screen Readers-friendly.
 Responsive Design    | The application fits perfectly on basically all the common device screens and remains easy to use on small viewports.
-Offline mode         | Thanks to the Service Worker, the visited sections are gradually cached and stay available even with zero connectivity.
+~~Offline mode~~         | ~~Thanks to the Service Worker, the visited sections are gradually cached and stay available even with zero connectivity.~~
 Custom map           | The Google Map uses a home-made paper-like style to perfectly fit in the application theme.
-Hand-selected photos | To ensure a perfect match, the 39 places photos have been handly selected and saved for the Web.
-Trust-Worthy source  | The places history text is provided by the Wikipedia API.
+~~Hand-selected photos~~ | ~~To ensure a perfect match, the 39 places photos have been handly selected and saved for the Web.~~
+Trust-Worthy source  | The places history text is provided by dbpedia.
 
 ## Using the application
 
@@ -109,11 +109,6 @@ The following dependencies have been used to build this project. Make sure to ru
 
 * The map legend icons are the property of [Bethesda](https://bethesda.net/en/).
 * Most of the photos are from Wikipedia. If not, the source is mentionned right under it in the modal.
-
-## Contributing
-
-This is a Student Project for the Udacity Front End Nanodegree.
-As such, pull requests will most likely be ignored.
 
 ## Compatibility
 
