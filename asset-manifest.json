@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Medieval-France/static/css/main.4ae63963.chunk.css",
+    "main.js": "/Medieval-France/static/js/main.9600eae7.chunk.js",
+    "main.js.map": "/Medieval-France/static/js/main.9600eae7.chunk.js.map",
+    "runtime-main.js": "/Medieval-France/static/js/runtime-main.d890a984.js",
+    "runtime-main.js.map": "/Medieval-France/static/js/runtime-main.d890a984.js.map",
+    "static/css/2.00186c68.chunk.css": "/Medieval-France/static/css/2.00186c68.chunk.css",
+    "static/js/2.d8093264.chunk.js": "/Medieval-France/static/js/2.d8093264.chunk.js",
+    "static/js/2.d8093264.chunk.js.map": "/Medieval-France/static/js/2.d8093264.chunk.js.map",
+    "index.html": "/Medieval-France/index.html",
+    "precache-manifest.23eeb61c550d08eef7ddf6ffd2740633.js": "/Medieval-France/precache-manifest.23eeb61c550d08eef7ddf6ffd2740633.js",
+    "service-worker.js": "/Medieval-France/service-worker.js",
+    "static/css/2.00186c68.chunk.css.map": "/Medieval-France/static/css/2.00186c68.chunk.css.map",
+    "static/css/main.4ae63963.chunk.css.map": "/Medieval-France/static/css/main.4ae63963.chunk.css.map",
+    "static/js/2.d8093264.chunk.js.LICENSE.txt": "/Medieval-France/static/js/2.d8093264.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Medieval-France/static/media/Side.d2df1b98.webp",
+    "static/media/Castle.webp": "/Medieval-France/static/media/Castle.c26c8752.webp",
+    "static/media/Cathedral.webp": "/Medieval-France/static/media/Cathedral.36b2a563.webp",
+    "static/media/City.webp": "/Medieval-France/static/media/City.0ea4fa96.webp",
+    "static/media/bootstrap.css": "/Medieval-France/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d890a984.js",
+    "static/css/2.00186c68.chunk.css",
+    "static/js/2.d8093264.chunk.js",
+    "static/css/main.4ae63963.chunk.css",
+    "static/js/main.9600eae7.chunk.js"
+  ]
+}
