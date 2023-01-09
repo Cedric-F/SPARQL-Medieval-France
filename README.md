@@ -14,12 +14,6 @@ _Cloning the development branch_
 git clone https://github.com/Cedric-F/SPARQL-Medieval-France.git
 ```
 
-***or***
-
-```
-git clone --single-branch -b master https://github.com/Cedric-F/SPARQL-Medieval-France.git
-```
-
 _**Dependencies and local use**_
 
 * `npm install` to install the dependencies.
