@@ -1,6 +1,6 @@
 _This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)._
 
-# Medieval France - _Neighborhood Map (React)_
+# Castles of France (a revisited version of Medieval France using SPARQL)
 
 A React Application using the Google Maps API to showcase some of the French legacy.
 
@@ -24,10 +24,6 @@ _**Dependencies and local use**_
 
 * `npm install` to install the dependencies.
 * `npm start` to start a server and test the development build on `localhost:3000`.
-
-_**Production build**_
-
-Using this **[Live Page](https://cedric-f.github.io/Medieval-France/)** is recommended.
 
 ## Structure
 
